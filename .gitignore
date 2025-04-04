@@ -1,0 +1,11 @@
+**/__pycache__
+**/__*__
+**/_*____
+.ipynb_checkpoints
+.pylintrc
+.idea
+.flake8
+.vscode
+.env
+.paths
+debug.log
