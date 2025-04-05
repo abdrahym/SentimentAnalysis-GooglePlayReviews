@@ -47,8 +47,9 @@ Sentiment analysis is a subfield of text classification within natural language 
 | 21 | Random Forest       | RF291 | 0.9975         | 0.9064        | 0.9073         | 0.9064      | 0.9068       |
 
 
-### 📝 **Sentiment Distribution Chart** 
 <br>
+
+### 📝 **Sentiment Distribution Chart** 
 
 #### 📊 **Average Metrics per ModelType**
 <img style="display: block; margin-left: 0; margin-right: auto; max-width: 80%" src="img/ChartAverageMetricsModelType.png"/>
@@ -60,3 +61,7 @@ Sentiment analysis is a subfield of text classification within natural language 
 
 #### 🏆 **Top 3 Models Comparison (Radar Chart)** 
 <img style="display: block; margin-left: 0; margin-right: auto; max-width: 80%" src="img/ChartTop3ModelsComparisonRadarChart.png"/>
+<br>
+
+#### 🏆 **Top Runs Comparison (Radar Chart) per Model Name** 
+<img style="display: block; margin-left: auto; margin-right: auto; max-width: 100%" src="img/ChartTopRunsComparisonRadarChartPerModelName.png"/>
